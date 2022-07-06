@@ -205,5 +205,3 @@
 					});
 
 })(jQuery);
-
-console.log("This homepage is open source on github:\nhttps://github.com/DreamElfAssociation/official-website-homepage\nLicensed under the GNU General Public License v3.0\nWish you happiness! Via soul.");
